@@ -1,0 +1,5 @@
+/Users/tianjiangyu/MyStudy/C++/Cpp_Primer/cmake-build-debug/CMakeFiles/CMakeCXXCompilerId.dir
+/Users/tianjiangyu/MyStudy/C++/Cpp_Primer/cmake-build-debug/CMakeFiles/main.dir
+/Users/tianjiangyu/MyStudy/C++/Cpp_Primer/cmake-build-debug/CMakeFiles/main3.dir
+/Users/tianjiangyu/MyStudy/C++/Cpp_Primer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tianjiangyu/MyStudy/C++/Cpp_Primer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
